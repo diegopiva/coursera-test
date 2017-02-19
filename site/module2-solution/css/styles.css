@@ -26,7 +26,7 @@ html {
 div#box1, div#box2, div#box3 {
 	/*position: relative;*/
 	margin: 10px;
-  	border: 1px solid black;
+	border: 1px solid black;
 }
 
 h1 {
@@ -38,12 +38,12 @@ h1 {
 .title{
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
-	text-align: center;	
-  	width: 130px;
-  	font-weight: bold;
-  	float:right;
-  	padding:3px;
-  	font-size:  125%;
+	text-align: center;
+	width: 130px;
+	font-weight: bold;
+	float:right;
+	padding:3px;
+	font-size:  125%;
 }
 
 .description{
@@ -123,13 +123,13 @@ h1 {
   .col-md-6 {
     width: 50%;
   }
-   .col-md-7 {
+  .col-md-7 {
     width: 58.33%;
   }
   .col-md-8 {
     width: 66.66%;
   }
-    .col-md-9 {
+  .col-md-9 {
     width: 74.99%;
   }
   .col-md-10 {
